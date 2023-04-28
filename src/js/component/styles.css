@@ -1,0 +1,30 @@
+.navbar {
+    margin: auto; 
+    justify-content: center;
+}
+
+.container{
+    margin: auto;
+    /* height: fit-content */
+}
+.jumbotron {
+    background-color: lightgray;
+    margin-bottom: 50px;
+    padding: 8px;
+}
+.btn-btn-primary-btn-lg {
+    padding-left: 500px;
+}
+.card-img-top {
+padding: 10px;
+
+}
+.cardsContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    margin: auto;
+}
+
